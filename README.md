@@ -1,5 +1,10 @@
 # RabbitMQ Event Exchange
 
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_event_exchange](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_event_exchange).
+All issues have been transferred.
+
 ## Overview
 
 This plugin exposes the internal RabbitMQ event mechanism as messages that clients
